@@ -5,6 +5,7 @@ This repository contains code for STAT 545B's Assignments B3 and B4. This reposi
 
 ## The ShinyApps can be found at the following links
 [Assignment B3 - Penguin Body Mass App](https://base-editor.shinyapps.io/BE-Shiny-Penguins-B3/)
+
 [Assignment B4 - Penguin Body Mass App](https://base-editor.shinyapps.io/be-shiny-penguins/)
 
 ## _Files in the project_
